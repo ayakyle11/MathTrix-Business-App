@@ -6,7 +6,8 @@ class MyApplication : Application() {
 
     override fun onCreate() {
         super.onCreate()
-        Logger.initialize(this)
+		//Enable it for App Logs
+        //Logger.initialize(this)
 		MLogger.initialize(this)
     }      
 }
