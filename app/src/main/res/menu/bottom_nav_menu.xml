@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_calculator"
+        android:title="Calculator"
+        android:icon="@drawable/ic_calculator" />
+    <item
+        android:id="@+id/navigation_lessons"
+        android:title="Lessons"
+        android:icon="@drawable/ic_lessons" />
+    <item
+        android:id="@+id/navigation_dictionary"
+        android:title="Dictionary"
+        android:icon="@drawable/ic_dictionary" />
+    <item
+        android:id="@+id/navigation_quiz"
+        android:title="Quiz"
+        android:icon="@drawable/ic_quiz" />
+</menu>
